@@ -1,0 +1,11 @@
+data/
+botzone/botzone.cpp
+botzone/botzone.exe
+
+# Visual Studio
+Debug/
+Release/
+ipch/
+x64/
+*.sdf
+*.opensdf
