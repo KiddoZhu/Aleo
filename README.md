@@ -10,7 +10,7 @@ Aleo is a flexible Mahjong AI development toolkit written in C++. It was develop
 
 ## Benchmark
 
-Aleo won the first place in [the competition of 2018 Game AI course](https://eduv4.botzone.org.cn/group/5a5dc7d5fe46681ed454794e#5b224a440edf94798cdbf04e), with a remarkable margin over the second competitor. It has an average winning rate of 46.8%, as well as excellent winning scores.
+Aleo won the first place in [the competition of 2018 Game AI course](https://www.botzone.org.cn/group/5a5dc7d5fe46681ed454794e#5b224a440edf94798cdbf04e), with a remarkable margin over the second competitor. It has an average winning rate of 46.8%, as well as excellent winning scores.
 
 Aleo can search over all possible combinations of 5 waiting tiles in 0.5s on a single i7-4720HQ CPU.
 
